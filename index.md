@@ -8,6 +8,6 @@
 layout: home
 ---
 
-*** About me ***
+**About me**
 
 This is test text
