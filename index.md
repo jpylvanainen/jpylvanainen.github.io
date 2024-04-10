@@ -7,4 +7,7 @@
 #
 layout: home
 ---
+
+*** About me ***
+
 This is test text
